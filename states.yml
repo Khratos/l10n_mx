@@ -1,0 +1,9 @@
+---
+- name: Aguascalientes
+  country_id: '1'
+  id: '01'
+  abbr: Ags
+- name: Puebla
+  country_id: '21'
+  id: '02'
+  abbr: Pue
